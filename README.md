@@ -158,13 +158,9 @@ An interactive Power BI dashboard was developed to monitor business performance.
 
 DAX measures were created to calculate key metrics, and the dashboard results were validated against SQL analysis.
 
-**Dashboard screenshot:** Add an image of your completed Power BI dashboard to your repository and insert it here:
 
-```markdown
-![ShopEasy Power BI Dashboard](dashboard.png)
-```
+[ShopEasy Power BI Dashboard](dashboard.png)
 
-Replace `dashboard.png` with the actual name of your uploaded screenshot.
 
 ##  Business Recommendations
 
