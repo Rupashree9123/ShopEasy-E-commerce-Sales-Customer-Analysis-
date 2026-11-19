@@ -157,9 +157,11 @@ An interactive Power BI dashboard was developed to monitor business performance.
 - Interactive slicers for order date, category, and status
 
 DAX measures were created to calculate key metrics, and the dashboard results were validated against SQL analysis.
+## Dashboard Screenshot
 
-
-[ShopEasy Power BI Dashboard](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" alt="ShopEasy Power BI Dashboard" width="900">
+</p>
 
 
 ##  Business Recommendations
